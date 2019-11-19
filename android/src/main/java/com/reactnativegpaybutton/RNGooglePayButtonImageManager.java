@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.reactnativegpaybutton;
 
 import android.view.LayoutInflater;
 import android.view.View;
