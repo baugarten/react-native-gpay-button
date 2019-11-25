@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.reactnativegpaybutton;
 
 import java.util.Collections;
 import java.util.List;
